@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Pedro!
 
-💻 Graduando de Análise e Desenvolvimento de Sistemas com foco em ** Desenvolvimento e Analíse de dados **.  
+💻 Graduando de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento e Analíse de dados.  
 🚀 Determinado a aprender, automatizar processos e transformar problemas em soluções simples e eficientes.
 
 ---
