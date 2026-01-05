@@ -48,7 +48,7 @@
 ## 🤝 Vamos nos conectar?
 
 - 💼 LinkedIn: https://www.linkedin.com/in/pedro-dourado-3384b5252/  
-- 🐙 GitHub: https://github.com/seu-usuario  
+- 🐙 GitHub: https://github.com/PedroDourado352) 
 
 ---
 
