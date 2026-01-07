@@ -8,7 +8,7 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Sempre em evolução na área de tecnologia  
-- 🔐 Interesse forte em **Desenvolvimento, Analíse de dados e boas práticas**  
+- 🔐 Interesse forte em  Desenvolvimento, Analíse de dados e boas práticas
 - 🛠️ Experiência com desenvolvimento web  
 - 📚 Gosto de gerar valor, resolver problemas, documentar processos e compartilhar conhecimento.
 
@@ -17,8 +17,7 @@
 ## 🧰 Tecnologias & Ferramentas
 
 ### Desenvolvimento
-- Python  
-- Django
+- Python (Django)
 - Javascript
 - HTML | CSS  
 - Git & GitHub  
@@ -41,7 +40,8 @@
 - Desenvolvimento de aplicações 
 - Análise de dados
 - Desenvolvimento Web com Django  
-- Boas práticas de versionamento e Banco de dados 
+- Boas práticas
+- Banco de dados 
 
 ---
 
