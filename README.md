@@ -7,9 +7,9 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Sempre em evolução na área de tecnologia  
-- 🔐 Interesse forte em  Desenvolvimento, Analíse de dados e boas práticas
-- 🛠️ Experiência com desenvolvimento web  
+- 🎓 Sempre em evolução na área de tecnologia.  
+- 🔐 Interesse forte em  Desenvolvimento de sistemas, Analíse de dados e boas práticas.
+- 🛠️ Experiência profissional com desenvolvimento web.
 - 📚 Gosto de gerar valor, resolver problemas, documentar processos e compartilhar conhecimento.
 
 ---
@@ -21,7 +21,7 @@
 - Javascript
 - HTML | CSS  
 - Git & GitHub  
-- Banco de Dados (MySQL / MongoDB)
+- Banco de Dados (MySQL / MongoDB / PostgreSQL)
 
 ---
 
@@ -52,7 +52,7 @@
 
 ---
 
-⭐ *Seja bem-vindo(a)! Fique à vontade para explorar os repositórios, aprender e trocar ideias.*
+⭐ *Seja bem-vindo(a)! Fique à vontade para explorar os repositórios, aprender e trocar conhecimentos.*
 
 <!--
 **PedroDourado352/PedroDourado352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
