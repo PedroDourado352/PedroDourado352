@@ -82,22 +82,6 @@ me.say_hi()
 
 ---
 
-## 📊 Minhas estatísticas no GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroDourado352&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDourado352&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PedroDourado352&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PedroDourado352&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
----
 
 ## 🎯 Em que estou focado agora
 
